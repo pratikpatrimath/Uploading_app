@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107748477243",
+    "project_id": "epigle-f907c",
+    "storage_bucket": "epigle-f907c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107748477243:android:233638858d5313e3f98f1e",
+        "android_client_info": {
+          "package_name": "com.example.epigle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxVLpIQyNdzBJwgmXNsRWcBNbET-oDLuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
